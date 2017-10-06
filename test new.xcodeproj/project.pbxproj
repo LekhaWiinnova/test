@@ -18,6 +18,9 @@
 		5029C0D81F87811A008BA01C /* test_newUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5029C0D71F87811A008BA01C /* test_newUITests.m */; };
 		5029C0ED1F87A12B008BA01C /* view1ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5029C0EC1F87A12B008BA01C /* view1ViewController.m */; };
 		5029C0F31F87A2A1008BA01C /* view2ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5029C0F21F87A2A1008BA01C /* view2ViewController.m */; };
+=======
+		5029C0F01F87A230008BA01C /* view2ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5029C0EF1F87A230008BA01C /* view2ViewController.m */; };
+>>>>>>> origin/master
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,8 +60,13 @@
 		5029C0D91F87811A008BA01C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5029C0EB1F87A12B008BA01C /* view1ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = view1ViewController.h; sourceTree = "<group>"; };
 		5029C0EC1F87A12B008BA01C /* view1ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = view1ViewController.m; sourceTree = "<group>"; };
+<<<<<<< HEAD
 		5029C0F11F87A2A1008BA01C /* view2ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = view2ViewController.h; sourceTree = "<group>"; };
 		5029C0F21F87A2A1008BA01C /* view2ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = view2ViewController.m; sourceTree = "<group>"; };
+=======
+		5029C0EE1F87A230008BA01C /* view2ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = view2ViewController.h; sourceTree = "<group>"; };
+		5029C0EF1F87A230008BA01C /* view2ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = view2ViewController.m; sourceTree = "<group>"; };
+>>>>>>> origin/master
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,8 +123,13 @@
 				5029C0B61F878117008BA01C /* ViewController.m */,
 				5029C0EB1F87A12B008BA01C /* view1ViewController.h */,
 				5029C0EC1F87A12B008BA01C /* view1ViewController.m */,
+<<<<<<< HEAD
 				5029C0F11F87A2A1008BA01C /* view2ViewController.h */,
 				5029C0F21F87A2A1008BA01C /* view2ViewController.m */,
+=======
+				5029C0EE1F87A230008BA01C /* view2ViewController.h */,
+				5029C0EF1F87A230008BA01C /* view2ViewController.m */,
+>>>>>>> origin/master
 				5029C0B81F878117008BA01C /* Main.storyboard */,
 				5029C0BE1F878119008BA01C /* Assets.xcassets */,
 				5029C0C01F878119008BA01C /* LaunchScreen.storyboard */,
@@ -291,7 +304,11 @@
 			files = (
 				5029C0B71F878117008BA01C /* ViewController.m in Sources */,
 				5029C0ED1F87A12B008BA01C /* view1ViewController.m in Sources */,
+<<<<<<< HEAD
 				5029C0F31F87A2A1008BA01C /* view2ViewController.m in Sources */,
+=======
+				5029C0F01F87A230008BA01C /* view2ViewController.m in Sources */,
+>>>>>>> origin/master
 				5029C0B41F878116008BA01C /* AppDelegate.m in Sources */,
 				5029C0BD1F878118008BA01C /* test_new.xcdatamodeld in Sources */,
 				5029C0B11F878116008BA01C /* main.m in Sources */,
